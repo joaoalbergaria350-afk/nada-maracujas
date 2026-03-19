@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<title> Receita de Pizza de Maracujá </title>
+
+<body>
+    <header> <h1>Receita da Pizza de Maracujá</h1></header>
+    <hr>
+    <main>
+<h2>Ingredientes Essenciais: </h2>
+<ul>
+
+    <h3><li>Confeitare Leite Condensado: 1kg ou 3 ½ xícaras de chá.</li>
+<li>Farinha de trigo: 1kg ou 5 xícaras.</li> 
+<li>Água: 400ml ou 2 xícaras de chá.</li>
+<li>Polpa de maracujá: 200g ou 1 xícara de chá.</li>
+<li>Ovos: 2 ou 100g de ovos pasteurizados.</li>
+<li>Óleo: 100ml ou ½ xícara de chá de óleo.</li>
+<li>Açúcar refinado: 60g ou 4 colheres de sopa.</li>
+<li>Fermento biológico fresco: 50g ou ¼ xícara de chá.</li>
+<li>Sal: 30g ou 2 colheres de sopa.</li></h3>
+</ul>
+
+<hr>
+
+<h2>Etapas do procedimentos e modo de preparo:</h2>
+
+<ol>
+
+    <h3><li>Em um liquidificador, combine água, óleo, ovos, açúcar e fermento. Bata por 1 minuto.</li>
+<li>O conteúdo em uma tigela e adicione a farinha e o sal, misturando bem.</li>
+<li>A massa até soltar da mão e divida em 6 porções.</li>
+<li>Em bolas e deixe descansar por 20 minutos.</li>
+<li>Abra a massa com um rolo e misture o Confeitare Leite Condensado à polpa de maracujá.</li>
+<li>Modele as pizzas e leve ao forno preaquecido a 250ºC até dourar.</li></h3>
+
+</ol>
+
+<hr>
+
+</p>
+    
+    <img src="https://tse3.mm.bing.net/th/id/OIP.cQmqfu_PtzRPQtFof3AIhgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" alt="">
+
+</main>
+
+<footer> 
+    <h3>Usuário do GITHUB: joaoalbergaria350-afk</h3>
+</footer>
+</body>
+</html>
